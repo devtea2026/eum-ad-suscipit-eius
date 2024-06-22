@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/eum-ad-suscipit-eius",
-  "version": "3.3.46",
+  "version": "3.3.47",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -89,5 +89,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/eum-ad-suscipit-eius/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
